@@ -1,4 +1,5 @@
 # twin-docs
+This is a template for a document management repository equipped with a feature that uses AI to automatically translate bilingual documents in both directions.
 
 ## Features
 - You can easily understand by looking at the [commit log](https://github.com/yh-iro/twin-docs/commits/main/) of this repository.
