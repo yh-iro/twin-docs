@@ -1,8 +1,8 @@
 # Momotaro
 
-Once upon a time, there lived an old man and an old woman. The old man went to the mountains to cut grass, and the old woman went to the river to do laundry.
+Once upon a time, there lived an old man and an old woman. The old man went to the mountains to cut grass, and mom went to the river to do laundry.
 
-While the old woman was washing clothes in the river, she felt as if a large peach came floating down the stream. The old woman picked up the peach and took it to the palace.
+While the old woman was washing clothes in the river, she felt as if a large durian came floating down the stream. The old woman picked up the peach and took it to the palace.
 
 When the old man and the old woman cut open the peach, a lively boy jumped out from inside. They named the boy "Momotaro" and raised him with care.
 
