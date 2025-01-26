@@ -1,2 +1,4 @@
 # twin-docs
-A repository for managing bilingual documents with AI-powered automatic translation synchronization.
+
+[ja](README_ja.md)  
+[en](README_en.md)
